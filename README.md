@@ -1,29 +1,22 @@
 ---
-icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+description: 思考了很久，在当前情况下，仍旧是需要思考如何增加被动收入。
 ---
 
-# Welcome
+# 被动收入
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+## 自媒体
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+自媒体应该是最灵活的一个形式。
 
-### Jump right in
+1，想要长期有流量，必须要有原创内容才行
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+2，内容主体需要思考，既要能够吸引眼球，又能长期坚持，长期坚持很重要，自己都感兴趣，慢慢就自身就放弃了，遇到点点困难。
+
+
+
+但是到底是个什么形式呢？因为真正自媒体做的好的，都是要有自己主体内容。
+
+工作相关？（编码）
+
+编码这种东西，自己内心明白，这种东西对于外界来讲，太小众了，根本没人感兴趣，很多内容从业人员来讲，不同方向都感觉学起来抽象之极，更别提能够吸引人来看了，网上很多相关视频，其实根本就不是在说编码相关的东西，要么是买课引流，要么就是热点分析而已。
+
